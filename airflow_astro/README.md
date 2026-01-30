@@ -43,3 +43,16 @@ Contact
 =======
 
 The Astronomer CLI is maintained with love by the Astronomer team. To report a bug or suggest a change, reach out to our support.
+
+
+<img width="1900" height="917" alt="Screenshot 2026-01-30 124037" src="https://github.com/user-attachments/assets/27d78e98-3d3e-408c-a0b3-41babc037c2b" />
+
+<img width="1902" height="896" alt="Screenshot 2026-01-30 124058" src="https://github.com/user-attachments/assets/450b059f-4be9-4a3e-9721-c2ef912a1dc3" />
+
+<img width="1919" height="848" alt="Screenshot 2026-01-30 124124" src="https://github.com/user-attachments/assets/e1623a68-31f5-4226-9d48-99ae7104e619" />
+
+
+
+
+
+
