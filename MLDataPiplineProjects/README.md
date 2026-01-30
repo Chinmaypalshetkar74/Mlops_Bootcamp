@@ -57,4 +57,18 @@ dvc stage add -n train \
 	
 dvc stage add -n evaluate \
     -d src/evaluate.py -d models/model.pkl -d data/raw/data.csv \
+
+
+
+
+<img width="1904" height="747" alt="Screenshot 2026-01-24 175355" src="https://github.com/user-attachments/assets/6f350f8b-6e3f-4076-bf47-778aacc59c1d" />
+
+<img width="1445" height="883" alt="Screenshot 2026-01-24 175127" src="https://github.com/user-attachments/assets/c8684843-c2cf-4fac-a001-544bb6663b10" />
+
+<img width="1919" height="1020" alt="Screenshot 2026-01-24 174401" src="https://github.com/user-attachments/assets/53b5b4bd-0ab6-4e2a-b474-3d38be73be7f" />
+
+
+
+
+
     python src/evaluate.py
