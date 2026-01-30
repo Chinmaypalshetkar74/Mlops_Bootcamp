@@ -52,6 +52,7 @@ The Astronomer CLI is maintained with love by the Astronomer team. To report a b
 <img width="1919" height="848" alt="Screenshot 2026-01-30 124124" src="https://github.com/user-attachments/assets/e1623a68-31f5-4226-9d48-99ae7104e619" />
 
 
+<img width="1907" height="995" alt="image" src="https://github.com/user-attachments/assets/c97481a3-c83e-4a3e-ac73-6e2d4e28f84a" />
 
 
 
