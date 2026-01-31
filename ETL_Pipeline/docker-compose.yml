@@ -1,0 +1,31 @@
+## docker compose.yml used to deploy a simple web application with a database
+## use to help in interaction with differnt different containers
+
+
+version: '3.8'
+
+services:
+  Postgres:
+    image: postgres:13
+    container_name: postgres_db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: postgres 
+    ports:
+      - "5432:5432"
+      # host port:container port
+    volumes: # persist data even if container is removed
+      - postgres_data:/var/lib/postgresql/data 
+    networks:
+      - airflow_network
+
+networks:
+  airflow_network:
+    external: False
+
+volumes:
+  postgres_data:
+  
+
+
