@@ -1,0 +1,19 @@
+# use official Python image from dockerhub
+FROM python:3.9-slim
+
+#set working directory in the container
+
+WORKDIR /app
+
+# copy the dependencies file to the working directory
+
+COPY . /app
+
+# install dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+#Make port 5000 available to the world outside this container
+EXPOSE 5000
+
+# run the app.py file when the container launches
+CMD ["python", "app.py"]
