@@ -76,6 +76,9 @@ Organization: KrishAI Technologies
 
 
 
+<img width="1600" height="1190" alt="mlops" src="https://github.com/user-attachments/assets/3b68935f-0327-453c-b699-5be036924b63" />
+
+
 posture/mohg0AB<img width="1496" height="1065" alt="image" src="https://github.com/user-attachments/assets/afa71844-c6e3-48f6-8e18-b868b7e051e6" />
 
 <img width="1731" height="1020" alt="Screenshot 2026-01-30 134721" src="https://github.com/user-attachments/assets/60643ce7-fa80-4dd2-b42d-f82651459fed" />
